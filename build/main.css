@@ -1,0 +1,46 @@
+.input {
+  margin-left: 15%; }
+
+button {
+  border: 1px solid #a0abab;
+  font-size: 12px;
+  font-family: arial, helvetica, sans-serif;
+  padding: 2px 2px 2px 2px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  color: #080808;
+  background-color: #BEC5C5;
+  background-image: linear-gradient(to bottom, #BEC5C5, #D9DDDD); }
+
+.delete {
+  float: right; }
+
+.likesLabel {
+  float: left;
+  padding: .25em .2em 0 0; }
+
+.likes {
+  padding: .2em; }
+
+.app {
+  margin: 0 15% 0 15%;
+  padding: 0; }
+
+.pictureBox.scss {
+  width: 60%; }
+
+.pictureBox > img {
+  width: 100%; }
+
+body {
+  background: #1469CC;
+  font-size: 12px;
+  font-family: arial, helvetica, sans-serif;
+  font-weight: bold;
+  color: #080808; }
+
+div {
+  padding-top: 5%; }
+
+/*# sourceMappingURL=main.css.map */
